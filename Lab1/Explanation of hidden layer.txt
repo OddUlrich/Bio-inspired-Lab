@@ -1,0 +1,17 @@
+Source:
+https://www.quora.com/Why-is-a-hidden-layer-named-so-in-neural-networks
+
+Let's look at the architecture of a neural network. Any neural network, but say for simplicity, we take a Multilayer Perception or Feed Forward Network with a single ‘hidden' layer.
+
+So the architecture is like
+
+one input layer, of size equal to the dimensions of the input
+One output layer, either one node for each class, or one node for a real valued result
+The hidden layer
+Now both “input” and “output” layers are self-explanatory.
+
+Now you need to name the layer in the middle something. Middle layer or latent layer or hidden layer are what comes naturally. Latent is too technical and may not be correct. Middle doesn't make sense if there are multiple layers. Hidden suits well.
+
+Additionally, the hidden layer estimates the output as some function of the input, but the function or the distribution of the data is unknown or hidden. Infact exactly how the individual neurones and their activations estimate the function is also hidden in a multitude of real values, which is difficult to correlate with some real world meaning.
+
+A layer hidden from the interface of the network, estimates a distribution that is not known explicitly using a combination of activations, where the combination is difficult to visualise explicitly. Not exactly poetic, but I think hidden is a pretty natural name, from an engineer's perspective.
