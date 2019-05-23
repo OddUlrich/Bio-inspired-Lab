@@ -3,12 +3,35 @@
   <component name="ChangeListManager">
     <list default="true" id="a62e4478-0543-41d4-8ad9-37b1825df48c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8/lab8.2_task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/lab8.2_task.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/lab9.1_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/lab9.1_basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/lab9.2_task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/lab9.2_task.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-209177689">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,7 +47,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -36,6 +58,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -44,6 +67,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ulrich\PycharmProjects\Bio-inspired-Lab" />
     </key>
@@ -92,13 +118,20 @@
       <option name="project" value="LOCAL" />
       <updated>1557644622372</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lab 8 solutions and Lab 9 tutorials.">
+      <created>1558566409343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558566409343</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24918033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -117,10 +150,14 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created project." />
     <MESSAGE value="Lab 7 finished." />
     <MESSAGE value="Lab 6 solution resources." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 6 solution resources." />
+    <MESSAGE value="Lab 8 solutions and Lab 9 tutorials." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 8 solutions and Lab 9 tutorials." />
   </component>
 </project>
